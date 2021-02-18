@@ -24,7 +24,7 @@
         <springframework.version>5.1.5.RELEASE</springframework.version>
         <spring-security-version>5.1.4.RELEASE</spring-security-version>
         <postgre.version>9.4.1212</postgre.version>
-        <fasterxml.jackson.version>2.10.1</fasterxml.jackson.version>
+        <fasterxml.jackson.version>2.12.1</fasterxml.jackson.version>
     </properties>
 
     <dependencies>
